@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to ${PREFIX}'s app. Snappy happy marketing slogan is great.
+=======
+  Welcome to ${PREFIX}'s app. Really jazzy snazzy marketing hype title!!!
+>>>>>>> 8023c3bc7991f1f72da11e8304ff7c49697092dc
   <!-- END -->
 
   </div>
